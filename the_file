@@ -1,0 +1,11 @@
+final-portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── fonts/
+├── pages/
+│   ├── about.html
+│   └── contact.html
+└── README.md
